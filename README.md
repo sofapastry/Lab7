@@ -25,7 +25,7 @@
 [мой инстаграмм](https://www.instagram.com/kgixxz_?igsh=MXFqNHI3a2w3cWE1NQ%3D%3D&utm_source=qr)
 
 ## Изображение
-![вайб нг](<img width="248" height="203" alt="image" src="https://github.com/user-attachments/assets/a88fe5f2-1439-42ef-ad38-b45c0dd00ad7" />)
+![лого гитхаб](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png )
 
 ## Пример кода
 ```python

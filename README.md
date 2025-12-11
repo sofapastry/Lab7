@@ -25,7 +25,7 @@
 [мой инстаграмм](https://www.instagram.com/kgixxz_?igsh=MXFqNHI3a2w3cWE1NQ%3D%3D&utm_source=qr)
 
 ## Изображение
-![чехлы которые я хочу](https://pin.it/2hzrRn49F)
+![вайб нг](https://abrakadabra.fun/44897-novogodnie-oboi-na-telefon-jestetika.html)
 
 ## Пример кода
 ```python

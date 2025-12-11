@@ -25,7 +25,7 @@
 [мой инстаграмм](https://www.instagram.com/kgixxz_?igsh=MXFqNHI3a2w3cWE1NQ%3D%3D&utm_source=qr)
 
 ## Изображение
-![вайб нг](https://abrakadabra.fun/44897-novogodnie-oboi-na-telefon-jestetika.html)
+![вайб нг](https://ru.freepik.com/psd/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B3%D0%BE%D0%B4-png)
 
 ## Пример кода
 ```python

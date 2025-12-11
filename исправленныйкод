@@ -1,0 +1,24 @@
+#include <iostream>
+#include <regex>
+#include <string>
+
+using namespace std;
+
+int main() {
+    string text = "You can contact us at support@example.com or sales@company.org. "
+                 "For personal inquiries, email john.doe123@gmail.com";
+
+    regex email_pattern(R"([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})"); //убрали границу слова тк с ним не запускалось
+
+    sregex_iterator it(text.begin(), text.end(), email_pattern); //дописада запятую после begin()
+    sregex_iterator end;
+
+    cout << "Found emails:" << endl;
+    
+    while (it != end) {
+        smatch match = *it;     
+        cout << match.str() << endl;
+        ++it; //добавил +
+    }
+    return 0; //дописала
+}
